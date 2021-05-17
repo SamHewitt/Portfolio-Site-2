@@ -1,12 +1,11 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
-gemspec
+gem 'jekyll', '3.8.4'
 
-# To push changes to master theme for all sites
-#gem build mytheme.gemspec
-#fury push mytheme-0.1.0.gem
-
-# Bundle update on all sites to get new version
-
-# all main code i.e layouts, sass get done on this theme
+group :jekyll_plugins do
+  gem 'jekyll-archives', '2.1.1'
+  gem 'jekyll-feed', '0.11.0'
+  gem 'jekyll-paginate', '1.1.0'
+  gem 'jekyll-seo-tag', '2.5.0'
+  gem 'jekyll-sitemap', '1.2.0'
+end
