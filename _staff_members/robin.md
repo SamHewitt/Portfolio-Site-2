@@ -1,7 +1,9 @@
 ---
-name: Robin Herrera
-position: CEO
-image_path: https://source.unsplash.com/collection/139386/604x604?a=.png
+name: Steph
+position: Developer
+image_path: /images/person1.jpg
 twitter_username: CloudCannon
 blurb: Robin is often found tending to her majestic vegetable garden.
 ---
+
+
