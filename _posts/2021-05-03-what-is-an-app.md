@@ -1,6 +1,6 @@
 ---
 title: What is an app?
-date: 2016-07-20 00:00:00
+date: 2021-05-03 00:00:00
 description: Exploring the mechanics of an application
 categories:
   - App
