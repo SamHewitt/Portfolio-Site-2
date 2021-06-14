@@ -7,21 +7,21 @@ left_links:
     link: /contact/
 right_links:
   - name:
-    link: https://facebook.com/frostbuild
+    link: 
     new_window: true
     social_icon: Facebook
   - name:
-    link: https://twitter.com/frostbuild
+    link: 
     social_icon: Twitter
     new_window: true
   - name:
-    link: https://youtube.com/c/frostbuild
+    link: 
     social_icon: YouTube
     new_window: true
   - name:
-    link: https://instagram.com/
+    link: 
     social_icon: Instagram
     new_window: true
   - name:
-    link: /feed.xml
+    link: 
     social_icon: RSS
